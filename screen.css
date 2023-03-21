@@ -1,0 +1,11 @@
+tr, td {
+  padding: 10px;
+  text-align: center;
+}
+
+tr:hover {background-color: red;}
+
+table {
+  border: 5px solid;
+  margin: auto;
+}
